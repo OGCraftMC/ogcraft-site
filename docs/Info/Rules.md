@@ -81,6 +81,9 @@ sidebar_position: 0
 18. **Toggle PVP Only**  
     Killing players without consent/permission will resut in punishment. We are a a toggle PvP server, just because they have PvP turned on doesn't mean players are consenting to be killed.
 
+18. **Bedrock Breaking**  
+    You are allowed to break bedrock excluding the very bottom layer of the bedrock in the overworld and nether. If you  create a hole to the void, contact staff immediately. You are allowed to break all the layers of the nether roof & the bedrock around end gateways and end towers.
+    
 ---
 
 ## <img src="/img/discord-ico.png" alt="OGCraft Logo" width="100" style={{ verticalAlign: 'middle' }} /> Discord Server Rules
