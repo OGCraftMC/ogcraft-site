@@ -81,6 +81,9 @@ sidebar_position: 0
 18. **Toggle PVP Only**  
     Killing players without consent/permission will resut in punishment. We are a a toggle PvP server, just because they have PvP turned on doesn't mean players are consenting to be killed.
 
+19. **No Drugs and/or Alcohol Inferrance**  
+    Under no circumstances are you allowed to make or rename items to infer drugs or alcohol.
+
 ---
 
 ## <img src="/img/discord-ico.png" alt="OGCraft Logo" width="100" style={{ verticalAlign: 'middle' }} /> Discord Server Rules
