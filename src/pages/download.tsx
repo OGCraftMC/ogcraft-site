@@ -8,11 +8,15 @@ const DownloadCard: React.FC<{
   title: string;
   years: string;
   href: string;
-}> = ({ image, title, years, href }) => {
+  caption?: string;
+}> = ({ image, title, years, href, caption }) => {
   const img = useBaseUrl(image);
   return (
     <div className={styles.card}>
-      <img src={img} alt={title} className={styles.img} />
+      <div className={styles.imgContainer}>
+        <img src={img} alt={title} className={styles.img} />
+        {caption ? <div className={styles.caption}>{caption}</div> : null}
+      </div>
       <div className={styles.content}>
         <h2 style={{ margin: 0 }}>{title}</h2>
         <div className={styles.years}>{years}</div>
@@ -38,12 +42,14 @@ export default function DownloadPage(): JSX.Element {
           title={'Map 8'}
           years={'March 15, 2025 – May 23, 2026'}
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
+          caption={'The most players and builds the server has ever had!'}
         />
         <DownloadCard
           image={'img/map7.png'}
           title={'Map 7'}
           years={'May 4, 2024 – March 15, 2025'}
           href={'https://drive.usercontent.google.com/download?id=1nhYW-0X10hLM4CvD2rvcxuLenGQ1FN_H&export=download'}
+          caption={'fishholder'}
         />
 
         <p style={{ marginTop: '2rem', color: '#666' }}>
