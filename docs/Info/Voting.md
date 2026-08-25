@@ -8,7 +8,8 @@ sidebar_position: 2
    - [Rewards](#rewards)  
    - [Guaranteed Reward](#guaranteed-reward)  
    - [Chance to Win](#chance-to-win)  
-   - [Voting Sites](#voting-sites)  
+   - [Voting Sites](#voting-sites)
+   - [Information](#information)
 
 ---
 
