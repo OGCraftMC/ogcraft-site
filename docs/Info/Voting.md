@@ -18,6 +18,8 @@ sidebar_position: 2
 | Reward |
 |--------|
 | $100   |
+| 100 Claimblocks|
+| 1 Vote Point | 
 
 ### Chance to Win
 | Reward                 |
@@ -43,3 +45,12 @@ sidebar_position: 2
 | Minecraft Buzz           | [Vote on Minecraft Buzz](https://minecraft.buzz/server/1053)                                          |
 | TopG                     | [Vote on TopG](https://topg.org/minecraft-servers/server-657955)                                      |
 | Minecraft List           | [Vote on Minecraft List](https://minecraftlist.org/vote/18402)                                        |
+
+## Information
+All rewards are given or have a chance to be won on a per vote basis except the daily vote key.
+
+In order to receive a daily vote key you must successfully vote on 9 out of the 11 vote sites while you are online and have room in your inventory. If you vote offline you can use ```/vp claim``` to receive your guaranteed rewards but you will not receive a daily vote key. 
+
+Use ```/vshop``` to buy additional rewards with your vote points. 
+
+
