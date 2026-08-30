@@ -6,7 +6,7 @@ title: Welcome To OGCraft
 
 # Welcome to OGCraft <img src="/img/OGCraft.svg" alt="OGCraft Logo" width="100" style={{ verticalAlign: 'middle' }} />
 
-We’re a **Chill**, **toggle-PvP, non-grief** freebuild Minecraft server running **1.21.11**.
+We’re a **Chill**, **toggle-PvP, non-grief** freebuild Minecraft server running **26.2**.
 
 
 ## 🚀 Play Now
