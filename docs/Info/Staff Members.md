@@ -19,11 +19,9 @@ title: 👥 Staff Members
 - **Karma_3e**
 - **Cola57_dg**
 - **Desiderata_**
-- **DaysGoneDead**
 - **SalubriousDave**
 
 ## Architects
-- **DaysGoneDead**
 - **ChunkyPumpkin**
 - **Silver_Seven**
 
@@ -70,6 +68,7 @@ General Staff applications are open.
 - **ElliottPlays** — Former Moderator  
 - **Jimidabob05** — Former Moderator
 - **KumikoStickers** — Former Moderator
+- **DaysGoneDead** — Former Moderator & Architect
 
 ---
 
