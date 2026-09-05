@@ -22,7 +22,6 @@ title: 👥 Staff Members
 - **SalubriousDave**
 
 ## Architects
-- **DaysGoneDead**
 - **ChunkyPumpkin**
 - **Silver_Seven**
 
@@ -61,7 +60,7 @@ General Staff applications are open.
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
-- **NixStyx** — Former Admin
+- **NixStyx** — Former Admin & architect
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
@@ -69,7 +68,7 @@ General Staff applications are open.
 - **ElliottPlays** — Former Moderator  
 - **Jimidabob05** — Former Moderator
 - **KumikoStickers** — Former Moderator
-- **DaysGoneDead** - Former Moderator
+- **DaysGoneDead** - Former Moderator & Architect
 
 ---
 
