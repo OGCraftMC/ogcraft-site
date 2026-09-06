@@ -62,7 +62,7 @@ General Staff applications are open.
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
-- **NixStyx** — Former Admin
+- **NixStyx** — Former Admin & architect
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
