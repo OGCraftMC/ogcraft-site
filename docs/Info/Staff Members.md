@@ -22,8 +22,10 @@ title: 👥 Staff Members
 - **SalubriousDave**
 
 ## Architects
+- **Desiderata_**
 - **ChunkyPumpkin**
 - **Silver_Seven**
+- **Darkeyke**
 
 ## Engineers
 - **RedstoneSam**
