@@ -24,6 +24,8 @@ title: 👥 Staff Members
 ## Architects
 - **ChunkyPumpkin**
 - **Silver_Seven**
+- **Darkeyke**
+- **Desiderata_**
 
 ## Engineers
 - **RedstoneSam**
