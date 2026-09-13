@@ -22,8 +22,10 @@ title: 👥 Staff Members
 - **SalubriousDave**
 
 ## Architects
+- **Desiderata_**
 - **ChunkyPumpkin**
 - **Silver_Seven**
+- **Darkeyke**
 
 ## Engineers
 - **RedstoneSam**
@@ -68,7 +70,7 @@ General Staff applications are open.
 - **ElliottPlays** — Former Moderator  
 - **Jimidabob05** — Former Moderator
 - **KumikoStickers** — Former Moderator
-- **DaysGoneDead** - Former Moderator & Architect
+- **DaysGoneDead** — Former Moderator & Architect
 
 ---
 
