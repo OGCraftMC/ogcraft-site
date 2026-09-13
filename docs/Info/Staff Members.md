@@ -46,7 +46,7 @@ We are always looking to add more moderators to our staff team. If you’d like 
 
 [apply for Developer Here](https://forms.gle/GJmZ3qsTTvSufYj17)
 
-[apply for Architect Here](https://forms.gle/WuajUkLbzruWc56Q6)
+[apply for Architect Here](https://forms.gle/VrycV5Q6MiLnUeMk9)
 
 ---
 
