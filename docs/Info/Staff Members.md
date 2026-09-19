@@ -12,13 +12,13 @@ title: 👥 Staff Members
 - **anneizzle**
 - **SwankopotamusRex**
 -  **Lariatt_**
-
+- **Desiderata_**
+  
 ## Moderators
 - **Chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
 - **Cola57_dg**
-- **Desiderata_**
 - **SalubriousDave**
 
 ## Architects
