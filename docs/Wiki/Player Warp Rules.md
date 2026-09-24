@@ -1,6 +1,3 @@
-Rewrite the full rules in safe Markdown
-Copilot said:
-Markdown
 # Player Warp Rules
  
 **Effective Date:** 1st October 2026
@@ -287,5 +284,3 @@ This area should display:
 - Town information
 - Resident list
 - Any relevant town rules
- 
-### Minimum
