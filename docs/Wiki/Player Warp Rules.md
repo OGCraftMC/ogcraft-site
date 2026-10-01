@@ -1,6 +1,6 @@
 # Player Warp Rules
  
-**Effective Date:** 15st October 2026
+**Effective Date:** 15th October 2026
  
 Players are entitled to create their own Player Warps ("Pwarps") provided they comply with the rules below.
  
