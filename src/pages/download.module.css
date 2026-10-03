@@ -12,6 +12,18 @@
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+.imgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.caption {
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  color: #666;
+}
+
 .content {
   display: flex;
   flex-direction: column;
