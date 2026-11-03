@@ -20,6 +20,7 @@ title: 👥 Staff Members
 - **Karma_3e**
 - **Cola57_dg**
 - **SalubriousDave**
+- **Cadres**
 
 ## Architects
 - **Desiderata_**
